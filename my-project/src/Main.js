@@ -14,7 +14,17 @@ export class Main extends React.Component {
             <p className="font-serif">
               I'm a web developer with more than 10 years of experience
             </p>
-            <button className="rounded-full bg-violet-700 p-1 w-36 text-white max-md:my-5 md:my-5 max-sm:my-10">
+            <button
+              className="rounded-full
+             bg-violet-700
+              p-1
+               w-36
+                text-white
+                 max-md:my-5
+                  md:my-5
+                   max-sm:my-10
+                    max-xl:my-10"
+            >
               Hire me
             </button>
             <div className="flex gap-5 text-white">
